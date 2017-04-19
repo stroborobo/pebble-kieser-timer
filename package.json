@@ -1,0 +1,29 @@
+{
+  "name": "Kieser Timer",
+  "author": "bo@kbct.de",
+  "version": "1.0.0",
+  "keywords": ["pebble-app", "kieser", "training", "timer"],
+  "private": true,
+  "dependencies": {},
+  "pebble": {
+    "displayName": "Kieser Timer",
+    "uuid": "4d9b838f-e510-4eee-8d6c-8f08fc888f34",
+    "sdkVersion": "3",
+    "enableMultiJS": true,
+    "targetPlatforms": [
+      "aplite",
+      "basalt",
+      "chalk",
+      "diorite"
+    ],
+    "watchapp": {
+      "watchface": false
+    },
+    "messageKeys": [
+      "dummy"
+    ],
+    "resources": {
+      "media": []
+    }
+  }
+}
