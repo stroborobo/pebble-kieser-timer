@@ -23,7 +23,14 @@
       "dummy"
     ],
     "resources": {
-      "media": []
+      "media": [
+        {
+          "file": "images/icon.png",
+          "menuIcon": true,
+          "name": "ICON",
+          "type": "bitmap"
+        }
+      ]
     }
   }
 }
